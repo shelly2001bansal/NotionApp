@@ -1,0 +1,56 @@
+.nav{
+    /* height: 60px; */
+    width:91.66%;
+    background-color: rgb(0, 0, 15);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.a1{
+    color: White;
+    text-decoration: none;
+    font-size: 30px;
+}
+.list{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    /* flex-direction: row; */
+    /* justify-content: space-around; */
+    /* align-items: center; */
+    gap: 20px;
+}
+.a11{
+    text-decoration: none;
+    color: white;
+}
+.a2{
+    text-decoration: none;
+    color: white;
+}
+.a3{
+    background-color: rgb(46, 45, 45);
+    
+    color: white;
+    border: none;
+    margin-right: 25px;
+    width: 60px;
+    height: 30px;
+    border-radius: 2px;
+}
+.a3:hover{
+    background-color: gray;
+}
+.a4{
+    background-color: rgb(46, 45, 45);
+    color: white;
+    border: none;
+    margin-right: 25px;
+    width: 80px;
+    height: 30px;
+    border-radius: 2px;
+}
+.a4:hover{
+    background-color: gray;
+}

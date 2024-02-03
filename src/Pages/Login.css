@@ -1,0 +1,108 @@
+.z1{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.z2{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    font-weight: 400;
+    line-height: 0%;
+
+}
+.z3{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(48, 198, 248); 
+    font-weight: 400;
+    line-height: 0%;
+    font-style: italic;
+    margin-left: -56px;
+}
+.z4{
+    margin-left: 505px;
+    font-size: large;
+    color:white;
+    background-color: rgb(56, 56, 56);
+    border-radius: 5px;
+}
+.z15{
+    margin-left: 505px;
+    font-size: large;
+    color:white;
+    
+}
+.z5{
+    font-weight: bold;
+    color: black;
+    margin-left: 500px;
+    height: 40px;
+    width: 250px;
+    background-color: yellow;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.z5:hover{
+    border: 2px solid black;
+}
+.z8{
+    margin-left: 650px;
+    color: rgb(14, 14, 244);
+}
+.z9{
+    color: white;
+    font-size: x-large;
+    position: absolute;
+    top:270px;
+    left: 710px;
+}
+.z10{
+    width: 100px;
+    margin-left: 500px;
+    margin-top: 30px;
+}
+.z11{
+    margin-left: 650px;
+    margin-top: -10px;
+    width:100px;
+}
+.z12{
+    color: white;
+    margin-left: 620px;
+}
+.z7{
+    font-weight: bold;
+    color: black;
+    margin-left: 550px;
+    height: 40px;
+    width: 150px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.z7:hover{
+    background-color: yellow;
+    border: 2px solid black;
+}
+.z20{
+    height: 1px;
+    width: 110px;
+    border: 1px solid white;
+    background-color: white;
+    color: white;
+    position: absolute;
+    top:405px;
+    left:512px;
+}
+.z21{
+    height: 1px;
+    width: 100px;
+    border: 1px solid white;
+    background-color: white;
+    color: white;
+    position: absolute;
+    top:405px;
+    left:650px;
+}
